@@ -1,4 +1,7 @@
-# Curso de metodos Estadisticos
+# Curso de Metodos Estadisticos
+# Agustin Gerardo Carrera Valladares
+# 1869027
+
 ## Descripccion
 Repositorio del curso de emtodos estadisticos agisto 2024 del programa de Ingeniero Forestal 
 
