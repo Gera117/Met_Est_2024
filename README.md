@@ -32,3 +32,8 @@ Repositorio del curso de Metodos Estadisticos Agosto del 2024 del programa de In
 + Semana 17: Descanso/repaso
 + Semana 18: Presentamos el ultimo examen de curso, el cual trato de ANOVA y Turkey
 
+## Tabla de contribucion
+![Gera117's Commits](https://github.com/user-attachments/assets/f5343836-c399-4d8b-81ab-271bafe50e40)
+![Commits over time](https://github.com/user-attachments/assets/326ea196-95c1-47c8-8c45-05378d10eda7)
+
+
